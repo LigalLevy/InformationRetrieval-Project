@@ -1,0 +1,203 @@
+C:\Users\ligal\source\repos\IR project\IR project\bin\Debug\IR project.exe.config
+C:\Users\ligal\source\repos\IR project\IR project\bin\Debug\IR project.exe
+C:\Users\ligal\source\repos\IR project\IR project\bin\Debug\IR project.pdb
+C:\Users\ligal\source\repos\IR project\IR project\bin\Debug\MaterialSkin.dll
+C:\Users\ligal\source\repos\IR project\IR project\obj\Debug\IR project.csprojResolveAssemblyReference.cache
+C:\Users\ligal\source\repos\IR project\IR project\obj\Debug\IR_project.Properties.Resources.resources
+C:\Users\ligal\source\repos\IR project\IR project\obj\Debug\IR project.csproj.GenerateResource.Cache
+C:\Users\ligal\source\repos\IR project\IR project\obj\Debug\IR project.csproj.CoreCompileInputs.cache
+C:\Users\ligal\source\repos\IR project\IR project\obj\Debug\IR project.exe
+C:\Users\ligal\source\repos\IR project\IR project\obj\Debug\IR project.pdb
+C:\Users\ligal\source\repos\IR project\IR project\obj\Debug\IR_project.Form1.resources
+C:\Users\ligal\source\repos\IR project\IR project\bin\Debug\MySql.Data.dll
+C:\Users\ligal\source\repos\IR project\IR project\bin\Debug\MySql.Data.xml
+C:\Users\ligal\source\repos\IR project\IR project\bin\Debug\Accord.dll.config
+C:\Users\ligal\source\repos\IR project\IR project\bin\Debug\Accord.dll
+C:\Users\ligal\source\repos\IR project\IR project\bin\Debug\Accord.Math.Core.dll
+C:\Users\ligal\source\repos\IR project\IR project\bin\Debug\Accord.Math.dll
+C:\Users\ligal\source\repos\IR project\IR project\bin\Debug\Accord.Statistics.dll
+C:\Users\ligal\source\repos\IR project\IR project\bin\Debug\Accord.Text.dll
+C:\Users\ligal\source\repos\IR project\IR project\bin\Debug\Accord.xml
+C:\Users\ligal\source\repos\IR project\IR project\bin\Debug\Accord.Math.xml
+C:\Users\ligal\source\repos\IR project\IR project\bin\Debug\Accord.Math.Core.xml
+C:\Users\ligal\source\repos\IR project\IR project\bin\Debug\Accord.Statistics.xml
+C:\Users\ligal\source\repos\IR project\IR project\bin\Debug\Accord.Text.xml
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\obj\Debug\IR project.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\obj\Debug\IR_project.Properties.Resources.resources
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\obj\Debug\IR project.csproj.GenerateResource.Cache
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\obj\Debug\IR project.csproj.CoreCompileInputs.cache
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\bin\Debug\Accord.dll.config
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\bin\Debug\IR project.exe.config
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\bin\Debug\IR project.exe
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\bin\Debug\IR project.pdb
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\bin\Debug\Accord.dll
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\bin\Debug\Accord.Math.Core.dll
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\bin\Debug\Accord.Math.dll
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\bin\Debug\Accord.Statistics.dll
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\bin\Debug\Accord.Text.dll
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\bin\Debug\MaterialSkin.dll
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\bin\Debug\MySql.Data.dll
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\bin\Debug\Accord.xml
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\bin\Debug\Accord.Math.xml
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\bin\Debug\Accord.Math.Core.xml
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\bin\Debug\Accord.Statistics.xml
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\bin\Debug\Accord.Text.xml
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\bin\Debug\MySql.Data.xml
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\obj\Debug\IR project.exe
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\obj\Debug\IR project.pdb
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\obj\Debug\IR_project.AdminForm.resources
+C:\Users\Avraham\Desktop\Shenkar\3\A\RetrivalData\IR project\IR project\obj\Debug\IR_project.SearchForm.resources
+C:\Users\ligal\Desktop\IR project\IR project\bin\Debug\Accord.dll.config
+C:\Users\ligal\Desktop\IR project\IR project\bin\Debug\IR project.exe.config
+C:\Users\ligal\Desktop\IR project\IR project\bin\Debug\IR project.exe
+C:\Users\ligal\Desktop\IR project\IR project\bin\Debug\IR project.pdb
+C:\Users\ligal\Desktop\IR project\IR project\bin\Debug\Accord.dll
+C:\Users\ligal\Desktop\IR project\IR project\bin\Debug\Accord.Math.Core.dll
+C:\Users\ligal\Desktop\IR project\IR project\bin\Debug\Accord.Math.dll
+C:\Users\ligal\Desktop\IR project\IR project\bin\Debug\Accord.Statistics.dll
+C:\Users\ligal\Desktop\IR project\IR project\bin\Debug\Accord.Text.dll
+C:\Users\ligal\Desktop\IR project\IR project\bin\Debug\MaterialSkin.dll
+C:\Users\ligal\Desktop\IR project\IR project\bin\Debug\Accord.xml
+C:\Users\ligal\Desktop\IR project\IR project\bin\Debug\Accord.Math.xml
+C:\Users\ligal\Desktop\IR project\IR project\bin\Debug\Accord.Math.Core.xml
+C:\Users\ligal\Desktop\IR project\IR project\bin\Debug\Accord.Statistics.xml
+C:\Users\ligal\Desktop\IR project\IR project\bin\Debug\Accord.Text.xml
+C:\Users\ligal\Desktop\IR project\IR project\bin\Debug\MySql.Data.xml
+C:\Users\ligal\Desktop\IR project\IR project\obj\Debug\IR project.csprojResolveAssemblyReference.cache
+C:\Users\ligal\Desktop\IR project\IR project\obj\Debug\IR_project.SearchForm.resources
+C:\Users\ligal\Desktop\IR project\IR project\obj\Debug\IR_project.Properties.Resources.resources
+C:\Users\ligal\Desktop\IR project\IR project\obj\Debug\IR project.csproj.GenerateResource.Cache
+C:\Users\ligal\Desktop\IR project\IR project\obj\Debug\IR project.csproj.CoreCompileInputs.cache
+C:\Users\ligal\Desktop\IR project\IR project\obj\Debug\IR project.exe
+C:\Users\ligal\Desktop\IR project\IR project\obj\Debug\IR project.pdb
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.dll.config
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\bin\Debug\IR project.exe.config
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\bin\Debug\IR project.exe
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\bin\Debug\IR project.pdb
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.dll
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.Math.Core.dll
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.Math.dll
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.Statistics.dll
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.Text.dll
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\bin\Debug\MaterialSkin.dll
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\bin\Debug\MySql.Data.dll
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.xml
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.Math.xml
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.Math.Core.xml
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.Statistics.xml
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.Text.xml
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\bin\Debug\MySql.Data.xml
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\obj\Debug\IR project.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\obj\Debug\IR_project.SearchForm.resources
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\obj\Debug\IR_project.Properties.Resources.resources
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\obj\Debug\IR project.csproj.GenerateResource.Cache
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\obj\Debug\IR project.csproj.CoreCompileInputs.cache
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\obj\Debug\IR project.exe
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\obj\Debug\IR project.pdb
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\obj\Debug\IR_project.LogIn.resources
+C:\Users\Avraham\Desktop\IR project1.1\IR project\IR project\obj\Debug\IR_project.AdminPanel.resources
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.dll.config
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\bin\Debug\IR project.exe.config
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\bin\Debug\IR project.exe
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\bin\Debug\IR project.pdb
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.dll
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.Math.Core.dll
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.Math.dll
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.Statistics.dll
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.Text.dll
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\bin\Debug\MaterialSkin.dll
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.xml
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.Math.xml
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.Math.Core.xml
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.Statistics.xml
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\bin\Debug\Accord.Text.xml
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\bin\Debug\MySql.Data.xml
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\obj\Debug\IR project.csprojResolveAssemblyReference.cache
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\obj\Debug\IR_project.AdminPanel.resources
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\obj\Debug\IR_project.LogIn.resources
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\obj\Debug\IR_project.SearchForm.resources
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\obj\Debug\IR_project.Properties.Resources.resources
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\obj\Debug\IR project.csproj.GenerateResource.Cache
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\obj\Debug\IR project.csproj.CoreCompileInputs.cache
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\obj\Debug\IR project.exe
+C:\Users\ligal\Desktop\IR project1.1\IR project\IR project\obj\Debug\IR project.pdb
+C:\Users\ligal\Desktop\IR project\IR project\IR project\bin\Debug\Accord.dll.config
+C:\Users\ligal\Desktop\IR project\IR project\IR project\bin\Debug\IR project.exe.config
+C:\Users\ligal\Desktop\IR project\IR project\IR project\bin\Debug\IR project.exe
+C:\Users\ligal\Desktop\IR project\IR project\IR project\bin\Debug\IR project.pdb
+C:\Users\ligal\Desktop\IR project\IR project\IR project\bin\Debug\Accord.dll
+C:\Users\ligal\Desktop\IR project\IR project\IR project\bin\Debug\Accord.Math.Core.dll
+C:\Users\ligal\Desktop\IR project\IR project\IR project\bin\Debug\Accord.Math.dll
+C:\Users\ligal\Desktop\IR project\IR project\IR project\bin\Debug\Accord.Statistics.dll
+C:\Users\ligal\Desktop\IR project\IR project\IR project\bin\Debug\Accord.Text.dll
+C:\Users\ligal\Desktop\IR project\IR project\IR project\bin\Debug\MaterialSkin.dll
+C:\Users\ligal\Desktop\IR project\IR project\IR project\bin\Debug\Accord.xml
+C:\Users\ligal\Desktop\IR project\IR project\IR project\bin\Debug\Accord.Math.xml
+C:\Users\ligal\Desktop\IR project\IR project\IR project\bin\Debug\Accord.Math.Core.xml
+C:\Users\ligal\Desktop\IR project\IR project\IR project\bin\Debug\Accord.Statistics.xml
+C:\Users\ligal\Desktop\IR project\IR project\IR project\bin\Debug\Accord.Text.xml
+C:\Users\ligal\Desktop\IR project\IR project\IR project\obj\Debug\IR project.csprojResolveAssemblyReference.cache
+C:\Users\ligal\Desktop\IR project\IR project\IR project\obj\Debug\IR_project.AdminPanel.resources
+C:\Users\ligal\Desktop\IR project\IR project\IR project\obj\Debug\IR_project.LogIn.resources
+C:\Users\ligal\Desktop\IR project\IR project\IR project\obj\Debug\IR_project.SearchForm.resources
+C:\Users\ligal\Desktop\IR project\IR project\IR project\obj\Debug\IR_project.Properties.Resources.resources
+C:\Users\ligal\Desktop\IR project\IR project\IR project\obj\Debug\IR project.csproj.GenerateResource.Cache
+C:\Users\ligal\Desktop\IR project\IR project\IR project\obj\Debug\IR project.csproj.CoreCompileInputs.cache
+C:\Users\ligal\Desktop\IR project\IR project\IR project\obj\Debug\IR project.exe
+C:\Users\ligal\Desktop\IR project\IR project\IR project\obj\Debug\IR project.pdb
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\bin\Debug\Accord.dll.config
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\bin\Debug\IR project.exe.config
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\bin\Debug\IR project.exe
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\bin\Debug\IR project.pdb
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\bin\Debug\Accord.dll
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\bin\Debug\Accord.Math.Core.dll
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\bin\Debug\Accord.Math.dll
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\bin\Debug\Accord.Statistics.dll
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\bin\Debug\Accord.Text.dll
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\bin\Debug\MaterialSkin.dll
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\bin\Debug\MySql.Data.dll
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\bin\Debug\Accord.xml
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\bin\Debug\Accord.Math.xml
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\bin\Debug\Accord.Math.Core.xml
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\bin\Debug\Accord.Statistics.xml
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\bin\Debug\Accord.Text.xml
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\bin\Debug\MySql.Data.xml
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\obj\Debug\IR project.csprojResolveAssemblyReference.cache
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\obj\Debug\IR_project.AdminPanel.resources
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\obj\Debug\IR_project.LogIn.resources
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\obj\Debug\IR_project.SearchForm.resources
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\obj\Debug\IR_project.Properties.Resources.resources
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\obj\Debug\IR project.csproj.GenerateResource.Cache
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\obj\Debug\IR project.csproj.CoreCompileInputs.cache
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\obj\Debug\IR project.exe
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\obj\Debug\IR project.pdb
+C:\Users\Avraham\Desktop\IR projec4\IR project\IR project\IR project\obj\Debug\IR_project.ShowDocument.resources
+C:\Users\ligal\Desktop\IR project\IR project\obj\Debug\IR_project.AdminPanel.resources
+C:\Users\ligal\Desktop\IR project\IR project\obj\Debug\IR_project.LogIn.resources
+C:\Users\ligal\Desktop\IR project\IR project\obj\Debug\IR_project.ShowDocument.resources
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\bin\Debug\Accord.dll.config
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\bin\Debug\IR project.exe.config
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\bin\Debug\IR project.exe
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\bin\Debug\IR project.pdb
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\bin\Debug\Accord.dll
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\bin\Debug\Accord.Math.Core.dll
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\bin\Debug\Accord.Math.dll
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\bin\Debug\Accord.Statistics.dll
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\bin\Debug\Accord.Text.dll
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\bin\Debug\MaterialSkin.dll
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\bin\Debug\Accord.xml
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\bin\Debug\Accord.Math.xml
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\bin\Debug\Accord.Math.Core.xml
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\bin\Debug\Accord.Statistics.xml
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\bin\Debug\Accord.Text.xml
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\bin\Debug\MySql.Data.xml
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\obj\Debug\IR project.csprojResolveAssemblyReference.cache
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\obj\Debug\IR_project.AdminPanel.resources
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\obj\Debug\IR_project.LogIn.resources
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\obj\Debug\IR_project.SearchForm.resources
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\obj\Debug\IR_project.Properties.Resources.resources
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\obj\Debug\IR_project.ShowDocument.resources
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\obj\Debug\IR project.csproj.GenerateResource.Cache
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\obj\Debug\IR project.csproj.CoreCompileInputs.cache
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\obj\Debug\IR project.exe
+C:\Users\ligal\Desktop\לימודים\שנה ג\אחזור מידע\IR project\IR project\obj\Debug\IR project.pdb
